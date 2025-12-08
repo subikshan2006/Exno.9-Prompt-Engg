@@ -101,10 +101,10 @@ Create slight variations in your prompt to test how wording affects output.
 
 **🧩 Generated Using:** Runway Gen-2  
 
-🎥 **[Watch the Video on Google Drive](https://drive.google.com/file/d/1zmDWDoGJZQgNpHPZ83TuV_o1MaAcy2K5/view?usp=drive_link)**  
+🎥 https://drive.google.com/file/d/1tnexkxzIX9a18Enhq8AZN2TagOzSU53q/view?usp=drive_link
 
 **📸 Output Preview:**  
-<img width="543" height="375" alt="Seed Sprouting Output" src="https://github.com/user-attachments/assets/dc074a36-d088-4945-9133-33fe5fd17235" />
+<img width="1628" height="910" alt="Screenshot 2025-12-08 140601" src="https://github.com/user-attachments/assets/536669f5-9024-43a4-aaaf-91f750fb87d0" />
 
 ---
 
@@ -115,11 +115,11 @@ Create slight variations in your prompt to test how wording affects output.
 
 **🧩 Generated Using:** Runway Gen-2
 
-🎥 **[Watch the Generated Video](https://drive.google.com/file/d/1Lxc7RSQngJMlnluHY2wY-MaUz0vzUYCd/view?usp=drive_link)**  
+🎥 https://drive.google.com/file/d/1W7IqLDfj_Zj9OhINDwtUsjmgZcsuqWWn/view?usp=drive_link  
 
 **📸 Output Preview:**  
- 
-<img width="544" height="186" alt="image" src="https://github.com/user-attachments/assets/ec677480-8817-4626-a3d8-1ad459ba99c8" />
+ <img width="1626" height="912" alt="Screenshot 2025-12-08 141301" src="https://github.com/user-attachments/assets/ffbd555d-78c2-4fa1-8649-2dca68c44477" />
+
 
 
 # Result:
